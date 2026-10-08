@@ -1,5 +1,9 @@
 # openmotion-electrical
 
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 PCB design files for the [Open-Motion](https://github.com/OpenwaterHealth) near-infrared optical blood flow imaging platform — an open-source system for non-invasive cerebral blood flow measurement using diffuse correlation spectroscopy (DCS).
 
 This repository contains the electrical schematics and manufacturing packages for every printed circuit board in the Open-Motion hardware stack.
