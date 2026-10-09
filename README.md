@@ -48,7 +48,7 @@ openmotion-electrical/
 ├── 720-00005-Rev1.pdf       # Schematic / electrical documentation
 ├── 720-00007-Rev1.pdf       # Schematic / electrical documentation
 ├── 720-00010-Rev1.pdf       # Schematic / electrical documentation
-├── LICENSE                  # AGPL-3.0
+├── LICENSE                  # CERN-OHL-S-2.0
 └── README.md
 ```
 
@@ -102,7 +102,7 @@ For hardware contributions specifically:
 
 ## License
 
-This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0).
+This project is licensed under the [CERN Open Hardware Licence Version 2 – Strongly Reciprocal](LICENSE) (CERN-OHL-S-2.0).
 
 ## About Openwater
 
